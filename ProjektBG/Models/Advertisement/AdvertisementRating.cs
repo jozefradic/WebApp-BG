@@ -1,0 +1,24 @@
+﻿using ProjektBG.Domain.Models.BaseClasses;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Text;
+
+namespace ProjektBG.Domain.Models
+{
+    public class AdvertisementRating : DateTimeInfo
+    {
+        [Key]
+        public int AdvertisementRatingId { get; set; }
+
+        [ForeignKey("Advertisement")]
+        public int AdvertisementId { get; set; }
+
+        [ForeignKey("User")]
+        public int UserId { get; set; }
+
+        public string AdvertisementRatingMessage { get; set; }
+
+    }
+}

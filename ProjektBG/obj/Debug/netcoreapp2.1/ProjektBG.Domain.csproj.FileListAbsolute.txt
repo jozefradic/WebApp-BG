@@ -1,0 +1,8 @@
+c:\users\jozef.radic\source\repos\ProjektBG\ProjektBG\bin\Debug\netcoreapp2.1\ProjektBG.Domain.deps.json
+c:\users\jozef.radic\source\repos\ProjektBG\ProjektBG\bin\Debug\netcoreapp2.1\ProjektBG.Domain.dll
+c:\users\jozef.radic\source\repos\ProjektBG\ProjektBG\obj\Debug\netcoreapp2.1\ProjektBG.Domain.csproj.CoreCompileInputs.cache
+c:\users\jozef.radic\source\repos\ProjektBG\ProjektBG\obj\Debug\netcoreapp2.1\ProjektBG.Domain.AssemblyInfoInputs.cache
+c:\users\jozef.radic\source\repos\ProjektBG\ProjektBG\obj\Debug\netcoreapp2.1\ProjektBG.Domain.AssemblyInfo.cs
+c:\users\jozef.radic\source\repos\ProjektBG\ProjektBG\bin\Debug\netcoreapp2.1\ProjektBG.Domain.pdb
+c:\users\jozef.radic\source\repos\ProjektBG\ProjektBG\obj\Debug\netcoreapp2.1\ProjektBG.Domain.dll
+c:\users\jozef.radic\source\repos\ProjektBG\ProjektBG\obj\Debug\netcoreapp2.1\ProjektBG.Domain.pdb
